@@ -1,4 +1,6 @@
-# CE4317
+# CE4317 - Introduction to Data Engineering and Machine Learning
+
+I followed this module during my Erasmus semester (Sep 2024 - Dec 2024) at the University of Limerick.
 
 # Module Aims/Objectives
 
