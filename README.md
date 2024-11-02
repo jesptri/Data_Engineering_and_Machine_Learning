@@ -4,7 +4,7 @@ I followed this module during my Erasmus semester (Sep 2024 - Dec 2024) at the U
 
 # Module Aims/Objectives
 
-The aim of the module is to give students an insight and grounding into Data Engineering and Machine Learning. The module will cover mathematical and coding skills essential to developing Machine Learning applications in Python and will provide an introduction to some advanced machine learning topics such as modern machine learning platforms, data visualisation, and Deep Learning. 
+The aim of the module is to give students an insight and grounding into Data Engineering and Machine Learning. The module will cover mathematical and coding skills essential to developing Machine Learning applications in Python and will provide an introduction to some advanced Machine Learning topics such as modern Machine Learning platforms, data visualisation, and Deep Learning. 
 
 # Syllabus
 
