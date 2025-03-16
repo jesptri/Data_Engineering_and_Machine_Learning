@@ -1,5 +1,3 @@
-# From https://jonchar.net/notebooks/Artificial-Neural-Network-with-Keras/
-
 import matplotlib.pyplot as plt
 import numpy as np
 
