@@ -8,9 +8,9 @@ The aim of the module is to give students an insight and grounding into Data Eng
 
 # Syllabus
 
-- Programming language (**Python**) for Machine Learning
+- Programming language (**Python**) for Machine Learning.
 - Numeric support in typical scientific scripting (e.g., **Numpy/Scipy**).
 - Graphics and Scientific Visualization: Using scripting languages to build scientific visualizations (**Matplotlib**).
-- Fundamentals and basic concepts of Machine Learning algorithms (**Perceptron**, **Logistic Regression**, **Support Vector Machines**, **Multi-Layer Perceptron**)
-- Programming basics for Machine Learning (**Scikitlearn**, **Pytorch**, **Tensorflow**)
-- Applications of Machine Learning (e.g. inference, image classification, etc)
+- Fundamentals and basic concepts of Machine Learning algorithms (**Perceptron**, **Logistic Regression**, **Support Vector Machines**, **Multi-Layer Perceptron**).
+- Programming basics for Machine Learning with **Scikitlearn**.
+- Applications of Machine Learning (e.g. inference, image classification, etc).
